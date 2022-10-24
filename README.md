@@ -1,5 +1,7 @@
 # Loan Calculator
 
+> :warning: Technologists: you should be getting a copy of this assignment through your GitHub Classroom link, NOT through the GitHub repo URL directly! Any git commits you make should trigger the automated tests.
+
 You take a loan from a friend and need to calculate how much you will owe them after 3 months.
 You are going to pay them back 10% of the remaining loan amount each month.
 Create a program that takes the loan amount as input, calculates and outputs the remaining amount after 3 months.
