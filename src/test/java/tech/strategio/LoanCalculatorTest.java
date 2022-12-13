@@ -27,13 +27,8 @@ public class LoanCalculatorTest {
     }
 
     @Test
-    public void test0() {
+    void test0() {
         assertEquals(0, LoanCalculator.getRemainingAmountIn3Months(0));
-    }
-
-    @Test
-    public void test27() {
-        assertEquals(21, LoanCalculator.getRemainingAmountIn3Months(27));
     }
 
 }
